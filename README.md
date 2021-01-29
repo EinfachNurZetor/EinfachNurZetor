@@ -3,4 +3,5 @@
 
 I’m looking to collaborate on:
 <h4 align="center><a href="https://github.com/TheRedstoneLab">TheRedstoneLab <img src="https://avatars3.githubusercontent.com/u/78087427?s=200&v=4" height="25" width="25"/></a></h4>
+<h4 align="center><a href="https://github.com/playlegend">Legend <img src="https://avatars.githubusercontent.com/u/50528510?s=200&v=4" height="25" width="25"/></a></h4>
 <h4 align="center>And possibly soon for you, just contact me.</h4>
