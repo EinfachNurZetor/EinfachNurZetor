@@ -8,6 +8,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <br/>  
+<br/>  
 
 I’m looking to collaborate on:
 <h4 align="center><a href="https://github.com/TheRedstoneLab">TheRedstoneLab <img src="https://avatars3.githubusercontent.com/u/78087427?s=200&v=4" height="25" width="25"/></a></h4>
@@ -16,8 +17,7 @@ I’m looking to collaborate on:
 
 <br/>  
 
-
-## Languages and Tools
+<h1 align="left">Languages and Tools</h1>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
