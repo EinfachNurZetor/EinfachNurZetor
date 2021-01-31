@@ -1,23 +1,21 @@
-<h1 align="center">Hey 👋, I'm Sandro L.!</h1>
-<h3 align="center">Java- & Web-Developer since 2017 from Germany</h3>
-<br/>  
+## Hey 👋, I'm Sandro L.!  
+  
+
 <a href="https://github.com/einfachnurzetor" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/einfachnurzetor" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<br/>  
-<br/>  
-
-I’m looking to collaborate on:
-<h4 align="center><a href="https://github.com/TheRedstoneLab">TheRedstoneLab <img src="https://avatars3.githubusercontent.com/u/78087427?s=200&v=4" height="25" width="25"/></a></h4>
-<h4 align="center><a href="https://github.com/playlegend">Legend <img src="https://avatars.githubusercontent.com/u/50528510?s=200&v=4" height="25" width="25"/></a></h4>
-<h4 align="center>And possibly soon for you, just contact me.</h4>
+<a href="https://instagram.com/sandromagpizza" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+  
 
 <br/>  
 
-<h1 align="left">Languages and Tools</h1>
+
+## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
@@ -73,3 +71,19 @@ I’m looking to collaborate on:
 
 </td></tr></table>  
 
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=einfachnurzetor&&style=flat-square)  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
