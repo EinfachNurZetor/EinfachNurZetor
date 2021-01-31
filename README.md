@@ -1,5 +1,11 @@
-## Hey 👋, I'm Sandro L.!  
+<h1 align="center">Hi👋, I'm Newspicel</h1>
+<h3 align="center">Java- & Web-Developer since 2015 from Germany</h3>
+
+I’m currently collaborate on:
+- [PlayLegendNet](https://github.com/playlegend) <img src="https://avatars3.githubusercontent.com/u/50528510?s=200&v=4" height="25" width="25"/>
+- [TheRedstoneLab](https://github.com/theredstonelab) <img src="https://avatars3.githubusercontent.com/u/78087427?s=200&v=4" height="25" width="25"/>
   
+<br/>  
 
 <a href="https://github.com/einfachnurzetor" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -79,11 +85,3 @@
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=einfachnurzetor&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
