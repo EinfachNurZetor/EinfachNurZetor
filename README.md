@@ -2,7 +2,7 @@
 <h3 align="center">Java- & Web-Developer since 2017 from Germany</h3>
 
 I’m currently collaborate on:
-- [TheRedstoneLab](https://github.com/theredstonelab) <img src="https://avatars3.githubusercontent.com/u/78087427?s=200&v=4" height="25" width="25"/>
+- [LayerCraft](https://github.com/LayerCraft) <img src="https://image.flaticon.com/icons/png/512/3557/3557683.png" height="25" width="25"/>
   
 <br/>  
 
